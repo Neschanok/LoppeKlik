@@ -8,7 +8,7 @@ import OrdersScreen from './screens/OrdersScreen';
 
 const Tab = createBottomTabNavigator();
 
-/* Tab Navigator med fire faner. Fanen "Markeder" er en Stack Navigator (StackComponent) */
+/* Tab Navigator*/
 export default function App() {
     return (
         <NavigationContainer>
