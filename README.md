@@ -1,6 +1,6 @@
 # LoppeKlik – click and collect på loppemarkedet
 
-**Demovideo:** [indsæt link her]
+**Demovideo:** <video controls src="LoppeKlik-1.mov" title="Title"></video>
 
 ## Kør projektet
 
