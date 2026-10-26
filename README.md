@@ -2,6 +2,12 @@
 
 **Demovideo:** 
 
+https://github.com/user-attachments/assets/2a9c4763-001e-4ca0-a80d-0200ea16f30d
+
+
+
+
+
 ## Kør projektet
 
 ```bash
