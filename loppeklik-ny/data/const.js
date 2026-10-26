@@ -12,7 +12,7 @@ export const MARKETS = [
   {
     id: 'hallerne',
     name: 'Loppemarked i Slagelse Hallerne',
-    address: 'Harboesvej, 4200 Slagelse',
+    address: 'Parkvej, 4200 Slagelse',
     latitude: 55.3985,
     longitude: 11.3365,
   },
