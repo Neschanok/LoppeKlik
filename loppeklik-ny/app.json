@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "LoppeKlik",
+    "slug": "loppeklik",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "LoppeKlik bruger din lokation til at vise varer fra stande i nærheden.",
+        "NSCameraUsageDescription": "LoppeKlik bruger kameraet, så du kan tage billeder af dine varer."
+      }
+    },
+    "android": {
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION", "CAMERA"]
+    },
+    "plugins": [
+      ["expo-location", { "locationWhenInUsePermission": "LoppeKlik bruger din lokation til at vise varer fra stande i nærheden." }],
+      ["expo-image-picker", { "cameraPermission": "LoppeKlik bruger kameraet, så du kan tage billeder af dine varer." }]
+    ]
+  }
+}
